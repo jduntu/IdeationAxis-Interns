@@ -1,2 +1,2 @@
 # IdeationAxis-Interns
-Build responsive and user friendly website application  
+responsive and user friendly website application  
